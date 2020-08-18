@@ -9,7 +9,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
-  },"engines": {
+  },
+  "engines": {
     "node": "12.18.1",
     "npm": "6.14.7"
   },
@@ -59,5 +60,17 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABRAHAM-1998/herokkku22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABRAHAM-1998/herokkku22/issues"
+  },
+  "homepage": "https://github.com/ABRAHAM-1998/herokkku22#readme"
 }
